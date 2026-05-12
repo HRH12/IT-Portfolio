@@ -1,7 +1,7 @@
 # IT Networking & Security Portfolio
 
 ## About Me
-Aspiring IT professional focused on networking, help desk support, and cybersecurity fundamentals. Hands-on experience with Packet Tracer labs, Windows troubleshooting, and basic security configurations.
+Aspiring IT professional focused on networking and security fundamentals. Hands-on experience with Packet Tracer labs, Windows troubleshooting, and basic security configurations.
 
 ## Certifications
 - CompTIA Network+
@@ -9,8 +9,8 @@ Aspiring IT professional focused on networking, help desk support, and cybersecu
 
 ## Skills
 - Networking (VLANs, Routing, DHCP, OSPF)
-- Help Desk Troubleshooting
 - Basic Security (ACLs, firewall rules)
+- Tier 1 Troubleshooting
 - Windows & Linux fundamentals
 
 ## Projects
