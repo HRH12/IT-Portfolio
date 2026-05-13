@@ -17,16 +17,9 @@ I am an early-career IT and networking professional with hands-on experience in 
 # Featured Projects
 
 ## Cisco Packet Tracer Labs
+
 Lab-1
 Configure Router-on-a-stick, assign VLANs, assign trunks
 
-Lab-2
-
-
-## Help Desk Ticket Simulation
-
-## TCP & UDP Protocol Analysis (Wireshark)
-
-## Oracle VM VirtualBox
 
 
