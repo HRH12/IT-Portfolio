@@ -1,21 +1,32 @@
 # IT Networking & Security Portfolio
 
-## About Me
-Aspiring IT professional focused on networking and security fundamentals. Hands-on experience with Packet Tracer labs, Windows troubleshooting, and basic security configurations.
+Author: Haley Hampton
+This repository contains personal, hands-on labs and documented projects focused on network implementation using various platforms such as Cisco Packet Tracer, Wireshark, PuTTY, Oracle VM Virtualbox. The work here reflects practical, real-world learning through lab builds, troubleshooting exercises, and technical documentation rather than formal coursework submissions. 
 
-## Certifications
-- CompTIA Network+
-- Cisco CCNA
+# About Me
+I am actively seeking entry-level opportunities in IT Support and Network Adminstrator roles. 
 
-## Skills
-- Networking (VLANs, Routing, DHCP, OSPF)
-- Basic Security (ACLs, firewall rules)
-- Tier 1 Troubleshooting
-- Windows & Linux fundamentals
+I am an early-career IT and networking professional with hands-on experience in network infrastructure and basic secuirty fundamentals. My current focus is building a strong foundation in networking and security through practical labs, packet anaylsis, incident investigation, and clear technical documentation. 
 
-## Projects
-- Small Office Network Design (CCNA Lab)
-- Help Desk Ticket Simulation
-- Network Security Hardening Lab
+
+# Certifications
+- Cisco Certified Network Associate (CCNA) - APR 2026
+- CompTIA Network+ Certfications - JUN 2024
+
+
+# Featured Projects
+
+## Cisco Packet Tracer Labs
+Lab-1
+Configure Router-on-a-stick, assign VLANs, assign trunks
+
+Lab-2
+
+
+## Help Desk Ticket Simulation
+
+## TCP & UDP Protocol Analysis (Wireshark)
+
+## Oracle VM VirtualBox
 
 
