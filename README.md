@@ -14,13 +14,5 @@ I am an early-career IT and networking professional with hands-on experience in 
 - CompTIA Network+ Certfications - JUN 2024
 
 
-# Featured Projects
-
-## Cisco Packet Tracer Labs
-
-Lab-1
-
-Configure Router-on-a-stick, assign VLANs, assign trunks
-
 
 
