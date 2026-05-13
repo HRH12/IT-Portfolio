@@ -1,4 +1,4 @@
-# IT Networking & Security Portfolio
+# IT Networking Portfolio
 
 Author: Haley Hampton
 
