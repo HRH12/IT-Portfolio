@@ -1,6 +1,6 @@
 # IT Networking Portfolio
 
-Author: Haley Hampton
+Author: Haley H
 
 This portfolio contains personal, hands-on labs and documented projects focused on network implementation using various platforms such as Cisco Packet Tracer, Wireshark, PuTTY, Oracle VM Virtualbox. The work here reflects practical, real-world learning through lab builds, troubleshooting exercises, and technical documentation rather than formal coursework submissions. 
 
