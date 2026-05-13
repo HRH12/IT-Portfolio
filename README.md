@@ -19,7 +19,7 @@ I am an early-career IT and networking professional with hands-on experience in 
 ## Cisco Packet Tracer Labs
 
 Lab-1
-Configure Router-on-a-stick, assign VLANs, assign trunks
+: Configure Router-on-a-stick, assign VLANs, assign trunks
 
 
 
